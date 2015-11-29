@@ -1,0 +1,6 @@
+D:\Training\IndusValley-DesignPatterns-Nov-2015\Day-01\01-GreetingApp\01-GreetingApp\bin\Debug\01-GreetingApp.exe
+D:\Training\IndusValley-DesignPatterns-Nov-2015\Day-01\01-GreetingApp\01-GreetingApp\bin\Debug\01-GreetingApp.pdb
+D:\Training\IndusValley-DesignPatterns-Nov-2015\Day-01\01-GreetingApp\01-GreetingApp\obj\Debug\01-GreetingApp.exe
+D:\Training\IndusValley-DesignPatterns-Nov-2015\Day-01\01-GreetingApp\01-GreetingApp\obj\Debug\01-GreetingApp.pdb
+D:\Training\IndusValley-DesignPatterns-Nov-2015-2\01-GreetingApp\01-GreetingApp\obj\Debug\01-GreetingApp.exe
+D:\Training\IndusValley-DesignPatterns-Nov-2015-2\01-GreetingApp\01-GreetingApp\obj\Debug\01-GreetingApp.pdb

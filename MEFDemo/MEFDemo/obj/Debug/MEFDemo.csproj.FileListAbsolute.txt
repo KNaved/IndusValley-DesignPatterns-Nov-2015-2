@@ -1,0 +1,7 @@
+D:\Training\IndusValley-DesignPatterns-Nov-2015-2\MEFDemo\MEFDemo\bin\Debug\MEFDemo.exe
+D:\Training\IndusValley-DesignPatterns-Nov-2015-2\MEFDemo\MEFDemo\bin\Debug\MEFDemo.pdb
+D:\Training\IndusValley-DesignPatterns-Nov-2015-2\MEFDemo\MEFDemo\obj\Debug\MEFDemo.exe
+D:\Training\IndusValley-DesignPatterns-Nov-2015-2\MEFDemo\MEFDemo\obj\Debug\MEFDemo.pdb
+D:\Training\IndusValley-DesignPatterns-Nov-2015-2\MEFDemo\MEFDemo\obj\Debug\MEFDemo.csprojResolveAssemblyReference.cache
+D:\Training\IndusValley-DesignPatterns-Nov-2015-2\MEFDemo\MEFDemo\bin\Debug\MEFDemo.Contracts.dll
+D:\Training\IndusValley-DesignPatterns-Nov-2015-2\MEFDemo\MEFDemo\bin\Debug\MEFDemo.Contracts.pdb

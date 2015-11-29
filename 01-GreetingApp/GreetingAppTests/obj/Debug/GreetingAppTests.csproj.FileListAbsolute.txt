@@ -1,0 +1,7 @@
+D:\Training\IndusValley-DesignPatterns-Nov-2015\Day-01\01-GreetingApp\GreetingAppTests\bin\Debug\GreetingAppTests.dll
+D:\Training\IndusValley-DesignPatterns-Nov-2015\Day-01\01-GreetingApp\GreetingAppTests\bin\Debug\GreetingAppTests.pdb
+D:\Training\IndusValley-DesignPatterns-Nov-2015\Day-01\01-GreetingApp\GreetingAppTests\bin\Debug\01-GreetingApp.exe
+D:\Training\IndusValley-DesignPatterns-Nov-2015\Day-01\01-GreetingApp\GreetingAppTests\bin\Debug\01-GreetingApp.pdb
+D:\Training\IndusValley-DesignPatterns-Nov-2015\Day-01\01-GreetingApp\GreetingAppTests\obj\Debug\GreetingAppTests.csprojResolveAssemblyReference.cache
+D:\Training\IndusValley-DesignPatterns-Nov-2015\Day-01\01-GreetingApp\GreetingAppTests\obj\Debug\GreetingAppTests.dll
+D:\Training\IndusValley-DesignPatterns-Nov-2015\Day-01\01-GreetingApp\GreetingAppTests\obj\Debug\GreetingAppTests.pdb

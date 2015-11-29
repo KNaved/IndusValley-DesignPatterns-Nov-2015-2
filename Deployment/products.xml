@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Products>
+  <Product>
+    <Id>2</Id>
+    <Name>Pen</Name>
+    <Cost>20</Cost>
+    <Units>40</Units>
+  </Product>
+  <Product>
+    <Id>6</Id>
+    <Name>Hen</Name>
+    <Cost>50</Cost>
+    <Units>80</Units>
+  </Product>
+  <Product>
+    <Id>9</Id>
+    <Name>Den</Name>
+    <Cost>40</Cost>
+    <Units>30</Units>
+  </Product>
+  <Product>
+    <Id>3</Id>
+    <Name>Zen</Name>
+    <Cost>80</Cost>
+    <Units>50</Units>
+  </Product>
+  <Product>
+    <Id>5</Id>
+    <Name>Ken</Name>
+    <Cost>10</Cost>
+    <Units>90</Units>
+  </Product>
+</Products>

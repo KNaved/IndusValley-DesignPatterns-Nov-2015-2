@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MEFDemo", "MEFDemo\MEFDemo.csproj", "{A4089315-AF65-4FAC-9A0F-8EC28BA2F079}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MEFDemo.Contracts", "MEFDemo.Contracts\MEFDemo.Contracts.csproj", "{B947FA07-BFF5-4509-9877-8EA2252E011E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4089315-AF65-4FAC-9A0F-8EC28BA2F079}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4089315-AF65-4FAC-9A0F-8EC28BA2F079}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4089315-AF65-4FAC-9A0F-8EC28BA2F079}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4089315-AF65-4FAC-9A0F-8EC28BA2F079}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B947FA07-BFF5-4509-9877-8EA2252E011E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B947FA07-BFF5-4509-9877-8EA2252E011E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B947FA07-BFF5-4509-9877-8EA2252E011E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B947FA07-BFF5-4509-9877-8EA2252E011E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

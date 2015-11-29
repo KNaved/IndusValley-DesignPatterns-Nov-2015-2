@@ -1,0 +1,4 @@
+D:\Training\IndusValley-DesignPatterns-Nov-2015-2\MEFDemo\MEFDemo.Contracts\bin\Debug\MEFDemo.Contracts.dll
+D:\Training\IndusValley-DesignPatterns-Nov-2015-2\MEFDemo\MEFDemo.Contracts\bin\Debug\MEFDemo.Contracts.pdb
+D:\Training\IndusValley-DesignPatterns-Nov-2015-2\MEFDemo\MEFDemo.Contracts\obj\Debug\MEFDemo.Contracts.dll
+D:\Training\IndusValley-DesignPatterns-Nov-2015-2\MEFDemo\MEFDemo.Contracts\obj\Debug\MEFDemo.Contracts.pdb

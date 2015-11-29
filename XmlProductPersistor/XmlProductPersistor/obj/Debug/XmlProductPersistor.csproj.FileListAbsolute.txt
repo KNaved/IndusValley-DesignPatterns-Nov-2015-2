@@ -1,0 +1,6 @@
+D:\Training\IndusValley-DesignPatterns-Nov-2015-2\XmlProductPersistor\XmlProductPersistor\bin\Debug\XmlProductPersistor.dll
+D:\Training\IndusValley-DesignPatterns-Nov-2015-2\XmlProductPersistor\XmlProductPersistor\bin\Debug\XmlProductPersistor.pdb
+D:\Training\IndusValley-DesignPatterns-Nov-2015-2\XmlProductPersistor\XmlProductPersistor\bin\Debug\MEFDemo.Contracts.dll
+D:\Training\IndusValley-DesignPatterns-Nov-2015-2\XmlProductPersistor\XmlProductPersistor\obj\Debug\XmlProductPersistor.csprojResolveAssemblyReference.cache
+D:\Training\IndusValley-DesignPatterns-Nov-2015-2\XmlProductPersistor\XmlProductPersistor\obj\Debug\XmlProductPersistor.dll
+D:\Training\IndusValley-DesignPatterns-Nov-2015-2\XmlProductPersistor\XmlProductPersistor\obj\Debug\XmlProductPersistor.pdb

@@ -1,0 +1,5 @@
+D:\Training\IndusValley-DesignPatterns-Nov-2015-2\MovieRental\MovieRental\obj\Debug\MovieRental.csprojResolveAssemblyReference.cache
+D:\Training\IndusValley-DesignPatterns-Nov-2015-2\MovieRental\MovieRental\bin\Debug\MovieRental.exe
+D:\Training\IndusValley-DesignPatterns-Nov-2015-2\MovieRental\MovieRental\bin\Debug\MovieRental.pdb
+D:\Training\IndusValley-DesignPatterns-Nov-2015-2\MovieRental\MovieRental\obj\Debug\MovieRental.exe
+D:\Training\IndusValley-DesignPatterns-Nov-2015-2\MovieRental\MovieRental\obj\Debug\MovieRental.pdb

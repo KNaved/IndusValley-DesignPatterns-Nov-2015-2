@@ -8,6 +8,13 @@ namespace MovieRental
     {
         private String _name;
         private List<Rental> _rentals = new List<Rental>();
+        public event EventHandler RentalAdded;
+
+        protected virtual void OnRentalAdded()
+        {
+            var handler = RentalAdded;
+            if (handler != null) handler(this, EventArgs.Empty);
+        }
 
         public Customer(String name)
         {
@@ -19,6 +26,7 @@ namespace MovieRental
         public void addRental(Rental arg)
         {
             _rentals.Add(arg);
+            OnRentalAdded();
         }
 
         public String getName()
@@ -29,7 +37,7 @@ namespace MovieRental
         public String statement()
         {
             String result = _rentals.Aggregate(("Rental Record for " + getName() + "\n"),
-                (repResult, r) => repResult += "\t" + r.getMovie().Title + "\t" + r.GetAmount() + "\n");
+                (repResult, r) => repResult + ("\t" + r.getMovie().Title + "\t" + r.GetAmount() + "\n"));
 
             result += "Amount owed is " + GetTotalAmount() + "\n";
             result += "You earned " + GetTotalFrequentRenterPoints() + " frequent renter points";
