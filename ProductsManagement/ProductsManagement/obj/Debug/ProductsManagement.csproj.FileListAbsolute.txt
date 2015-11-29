@@ -1,0 +1,5 @@
+D:\Training\IndusValley-DesignPatterns-Nov-2015-2\ProductsManagement\ProductsManagement\bin\Debug\ProductsManagement.exe
+D:\Training\IndusValley-DesignPatterns-Nov-2015-2\ProductsManagement\ProductsManagement\bin\Debug\ProductsManagement.pdb
+D:\Training\IndusValley-DesignPatterns-Nov-2015-2\ProductsManagement\ProductsManagement\obj\Debug\ProductsManagement.csprojResolveAssemblyReference.cache
+D:\Training\IndusValley-DesignPatterns-Nov-2015-2\ProductsManagement\ProductsManagement\obj\Debug\ProductsManagement.exe
+D:\Training\IndusValley-DesignPatterns-Nov-2015-2\ProductsManagement\ProductsManagement\obj\Debug\ProductsManagement.pdb
