@@ -41,10 +41,23 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ChildrensMovieState.cs" />
+    <Compile Include="CreateMovieCommand.cs" />
     <Compile Include="Customer.cs" />
+    <Compile Include="ICommand.cs" />
+    <Compile Include="IMovieStateFactory.cs" />
     <Compile Include="Movie.cs" />
+    <Compile Include="MovieBase.cs" />
+    <Compile Include="MovieConsole.cs" />
+    <Compile Include="MovieFactory.cs" />
+    <Compile Include="MovieStateBase.cs" />
+    <Compile Include="MovieStateFactory.cs" />
+    <Compile Include="NewReleaseMovieState.cs" />
+    <Compile Include="NullMovie.cs" />
+    <Compile Include="NullMovieState.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RegularMovieState.cs" />
     <Compile Include="Rental.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
